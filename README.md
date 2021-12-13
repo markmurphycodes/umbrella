@@ -10,7 +10,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In your terminal, navigate to front-end directory
 
-`cd final-assessment-2021`
+`cd UDM-Final-Assessment-2021`
 
 Install npm dependencies
 
